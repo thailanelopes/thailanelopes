@@ -4,5 +4,5 @@ ________________________________________
 
 - Hi there 👋, my name is Thailane 😄
 - Brazilian 🇧🇷
-- 🌱 I’m currently learning Full Stack development.
+- 📚 Information Systems Student with a focus on: FullStack Development at Universidade Federal de Goiás.
 - 📫 How to reach me: https://linktr.ee/thailanelopes
