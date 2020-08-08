@@ -5,8 +5,3 @@ _______________________________________
 - Brazilian 🇧🇷
 - 📚 Information Systems Student with a focus on: FullStack Development at Universidade Federal de Goiás.
 - 📫 How to reach me: https://linktr.ee/thailanelopes
-
-
-
-
-
