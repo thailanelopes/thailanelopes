@@ -5,7 +5,7 @@
   </h1> 
 
 
-##### :house: Goiânia, BR | :closed_book: IS Student at [UFG](https://ufg.br)  Information Systems Student with a focus on: Full Stack Development 🧑‍💻. 
+##### :house: Goiânia, BR | :closed_book: SI Student at [UFG](https://ufg.br) with a focus on: Full Stack Development 🧑‍💻. 
  **I'm from Brazil🇧🇷**
 
   **Reach me out👇**
