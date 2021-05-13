@@ -35,7 +35,7 @@
 
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/johnatanbrayan)](https://profile-summary-for-github.com/user/johnatanbrayan)
 
-<a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=60px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
+<a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=90px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thailanelopes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailanelopes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 
