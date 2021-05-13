@@ -12,7 +12,7 @@
   **Reach me out👇**
   
 <a href="https://www.linkedin.com/in/thailane-lopes-dutra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thailanelopes" height="20" width="20" /></a>                                                                                                                 <a href="https://www.instagram.com/thailanelopess/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thailanelopess" height="20" width="20" /></a>
-<a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=30px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
+<a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=40px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
 
 
 
