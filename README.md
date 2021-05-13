@@ -10,7 +10,7 @@
 
   **Reach me out👇**
   
-<a href="https://www.linkedin.com/in/thailane-lopes-dutra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thailanelopes" height="20" width="20" /></a>                                                                                                                 <a href="https://instagram.com/wwwendel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wwwendel" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/thailane-lopes-dutra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thailanelopes" height="20" width="20" /></a>                                                                                                                 <a href="https://www.instagram.com/thailanelopess/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thailanelopess" height="20" width="20" /></a>
 
 
 
