@@ -33,7 +33,7 @@
 
  # Summary
 
-[![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/johnatanbrayan)](https://profile-summary-for-github.com/user/johnatanbrayan)
+[![Profile Summary](https://img.shields.io/badge/-Profile%30Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/thailanelopes)](https://profile-summary-for-github.com/user/thailanelopes)
 
 <a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=90px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
 
