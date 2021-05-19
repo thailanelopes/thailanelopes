@@ -36,7 +36,6 @@
 
 
 
-
  # Summary
 
 [![Profile Summary](https://img.shields.io/badge/-Profile%30Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/thailanelopes)](https://profile-summary-for-github.com/user/thailanelopes)
