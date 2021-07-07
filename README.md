@@ -57,7 +57,7 @@
         👇
 <a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=120px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
 
-<br>
+
 ---------
 ### Thanks for visiting :heart:<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 ![VisitorCount](https://profile-counter.glitch.me/BrownNego/count.svg)
