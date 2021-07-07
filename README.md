@@ -23,7 +23,7 @@
 
 <br>
   <br>
-
+---------
 # Skills
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  
@@ -39,7 +39,7 @@
 <br>
   <br>
 
-  
+---------
  # Summary
 
 [![Profile Summary](https://img.shields.io/badge/-Profile%30Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/thailanelopes)](https://profile-summary-for-github.com/user/thailanelopes)
@@ -52,7 +52,7 @@
   
   <br>
   <br>
-  
+  ---------
    ## Veja oque estou aprendendo na Udemy 
         👇
 <a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=120px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
