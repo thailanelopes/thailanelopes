@@ -50,9 +50,8 @@
   
 
   
-  <br>
-  <br>
-  ---------
+  
+  
    ## Veja oque estou aprendendo na Udemy 
         👇
 <a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=120px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
