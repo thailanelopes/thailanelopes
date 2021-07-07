@@ -59,6 +59,6 @@
 
 
 ---------
-#### Thanks for visiting :heart: 👋<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1>
+#### Thanks for visiting :heart:<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1>
 ![VisitorCount](https://profile-counter.glitch.me/BrownNego/count.svg)
   
