@@ -4,9 +4,9 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
   </h1> 
   
+</div>
 
-
-
+<p align="left">
 
 ##### :house: Goiânia, BR | :closed_book: SI Student at [UFG](https://ufg.br) with a focus on: Full Stack Development 🧑‍💻. 
  **I'm from Brazil🇧🇷**
@@ -54,9 +54,10 @@
   
   <br>
   <br><br>
-  <p align="left">
+  
   ## Veja oque estou aprendendo na Udemy 
-        👇
+
+       
 <a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=110px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
 
 </p>
