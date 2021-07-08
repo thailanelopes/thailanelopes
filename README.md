@@ -14,6 +14,12 @@
   **Reach me out👇**
   
 <a href="https://www.linkedin.com/in/thailane-lopes-dutra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thailanelopes" height="30" width="30" /></a>                                                                                                                 <a href="https://www.instagram.com/thailanelopess/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thailanelopess" height="30" width="30" /></a>
+  
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/thailane-lopes-dutra/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/thailane-lopes-dutra/">
+    </a>
 
 
 
