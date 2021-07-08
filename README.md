@@ -54,11 +54,13 @@
   
   <br>
   <br><br>
-  
-   ## Veja oque estou aprendendo na Udemy 
+  <p align="left">
+  ## Veja oque estou aprendendo na Udemy 
         👇
-<a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=120px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
+<a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=110px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
 
+</p>
+   
 <br><br>
 
 ### Thanks for visiting :heart:<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
