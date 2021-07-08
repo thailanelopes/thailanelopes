@@ -17,6 +17,7 @@
 <p align="center">
   <a href="https://www.instagram.com/thailanelopess/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thailanelopess" height="30" width="30" /></a>
   
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thailane-lopes-dutra/)](https://www.linkedin.com/in/thailane-lopes-dutra/)
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:thailane111122@gmail.com">
