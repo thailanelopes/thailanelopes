@@ -14,15 +14,14 @@
   **Reach me out👇**
   
   
-<p align="center">
-  <a href="https://www.instagram.com/thailanelopess/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thailanelopess" height="30" width="30" /></a>
+  <div> 
+  <a href="https://instagram.com/thailanelopess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thailane111122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thailane-lopes-dutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
   
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thailane-lopes-dutra/)](https://www.linkedin.com/in/thailane-lopes-dutra/)
-[![Gmail Badge](https://img.shields.io/badge/-thailane111122@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thailane111122@gmail.com)](mailto:thailane111122@gmail.com)
-</p>
-
-
-
+  
 
 
 
