@@ -64,5 +64,5 @@
    
 <br><br>
 <p align="center">
- Thanks for visiting :heart:<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+ Thanks for visiting :heart:
   </p>
