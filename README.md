@@ -8,7 +8,7 @@
 
 <p align="left">
 
-##### :house: Goiânia, BR🇧🇷 | :closed_book: SI Student at [UFG](https://ufg.br) with a focus on: Full Stack Development 🧑‍💻 
+##### :house: Goiânia, 🇧🇷 | :closed_book: SI Student at [UFG](https://ufg.br) with a focus on: Full Stack Development 🧑‍💻 
   
  A young woman in love with Science, Technology and Innovation!🧑‍💻❤️
 
