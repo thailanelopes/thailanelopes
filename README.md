@@ -34,7 +34,11 @@
 
 ### Lenguages:
 <div style="display: inline_block">
+  <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  
   </div>
  
 <br>
@@ -42,30 +46,33 @@
   
   
 #### Frameworks: 
-
-
-  
+<img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain-wordmark.svg">
+<img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain-wordmark.svg">
+<img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+<br>  
 
 
 #### BD:
 <img align="center" alt="Clei-MSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<br>
 
 #### Code editor and code versioner: 
+
 <div style="display: inline_block">
+  <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain-wordmark.svg">
   <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
   
   </div>
   
-
-
 <br>
-  <br>
+
   
 # other skills
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Clei-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">      
- 
+ <img align="center" alt="Clei-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  
   
 </div>
   
