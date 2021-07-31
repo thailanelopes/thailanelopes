@@ -33,7 +33,7 @@
 # Skills developed in the internship
 
 ### Lenguages:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   </div>
  
@@ -48,10 +48,10 @@
 
 
 #### BD:
-<img align="center" alt="Clei-Git" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+<img align="center" alt="Clei-MSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
 #### Code editor and code versioner: 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
   
   </div>
@@ -63,13 +63,9 @@
   
 # other skills
   
-  ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)  ![Eclipse](https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)    <img align="center" alt="Hugo-NodeJs" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/nodejs-original.svg?raw=true">
-  
-
   <div style="display: inline_block"><br>
-  <img align="center" alt="Clei-Java" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">  
-  <img align="center" alt="cle-Spring" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">     
-  <img align="center" alt="Clei-MSql" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Clei-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">      
+ 
   
 </div>
   
