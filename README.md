@@ -51,7 +51,7 @@
  <img align="center" alt="Hugo-NodeJs" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/nodejs-original.svg?raw=true">
  <img align="center" alt="Hugo-Bootstrap" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/bootstrap-plain.svg?
  <img align="center" alt="Hugo-Vue" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/vuejs-original.svg?raw=true">
-  <br>
+  
 
 
 #### BD:
