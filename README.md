@@ -70,7 +70,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Clei-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">      
  <img align="center" alt="Clei-Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Clei-Ubuntu" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original-wordmark.svg">
+  <img align="center" alt="Clei-Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   
   
 </div>
