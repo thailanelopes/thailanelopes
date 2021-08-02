@@ -41,20 +41,23 @@
   
   </div>
  
-<br>
+<br><br>
   
   
   
 #### Frameworks: 
 
 <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"><img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain-wordmark.svg"><img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<br>  
+<br>
+    <br>
 
 
 #### BD:
 
 <img align="center" alt="Clei-MSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+
 <br>
+   <br>
 
 #### Code editor and code versioner: 
 
@@ -64,7 +67,7 @@
   
   </div>
   
-<br>
+<br><br>
 
   
 # other skills
