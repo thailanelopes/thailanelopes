@@ -53,7 +53,6 @@
 
 
 #### BD:
-
 <img align="center" alt="Clei-MSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
 <br>
