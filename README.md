@@ -27,7 +27,7 @@
 <br>
 
 
-# Skills developed in the internship
+# Skills developed in the internship:
 
 ### Lenguages:
 
