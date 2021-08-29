@@ -99,8 +99,9 @@
    
 <br><br>
 
-
+<div>
 <p align="center">
   
 Thanks for visiting :heart:
  </p>
+  </div>
