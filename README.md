@@ -42,7 +42,6 @@
 <br><br>
   
   
-  
 ### Frameworks: 
 
 <img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"><img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain-wordmark.svg"><img align="center" alt="Clei-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
@@ -92,9 +91,9 @@
   <br>
   
   # See what I'm learning at Udemy
-
        
 <a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=110px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
+
 
 </p>
    
