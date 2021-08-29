@@ -99,9 +99,9 @@
    
 <br><br>
 
-<div>
-<p align="center">
+                               <div>
+                              <p align="center">
   
-Thanks for visiting :heart:
- </p>
-  </div>
+                                  Thanks for visiting :heart:
+                                  </p>
+                                   </div>
