@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     Hi, I'm Thailane! 
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4px"> 
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40x"> 
   </h1> 
   
 </div>
