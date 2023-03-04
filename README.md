@@ -26,9 +26,6 @@
 <br>
 <br>
 
-
-# Skills developed in the internship:
-
 ### Technologies:
 
 <div style="display: inline_block">
