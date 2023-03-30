@@ -84,11 +84,18 @@
 <br> -->
 
  # Summary
+ 
+ 
+ <div align="center">
+  <a href="https://github.com/thailanelopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thailanelopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailanelopes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![Profile Summary](https://img.shields.io/badge/-Profile%30Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/thailanelopes)](https://profile-summary-for-github.com/user/thailanelopes)
+<!--[![Profile Summary](https://img.shields.io/badge/-Profile%30Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/thailanelopes)](https://profile-summary-for-github.com/user/thailanelopes)
 
 <img align=left height='140px'  src = 'https://github-readme-stats.vercel.app/api?username=thailanelopes&theme=midnight-purple&count_private=true&show_icons=true'>
-<img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thailanelopes&theme=midnight-purple&hide=html&layout=compact' >
+<img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thailanelopes&theme=midnight-purple&hide=html&layout=compact' >-->
 
   
   <br>
