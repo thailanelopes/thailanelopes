@@ -35,7 +35,7 @@
  - Zend Framework
  - Mongo DB
 
-  **Reach me out👇**
+  **📫 You can get more information about me at https://linktr.ee/thailanelopes**
    
   <div> 
     <a href="https://linktr.ee/thailanelopes" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="-blank"></a>
