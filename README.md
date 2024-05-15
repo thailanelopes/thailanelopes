@@ -9,6 +9,7 @@
 <p align="left">
   
  A young woman in love with Science, Technology and Innovation!🧑‍💻❤️
+ 
  **📫 You can get more information about me at https://linktr.ee/thailanelopes**
 
  I'm a information systems student at the Federal University of Goiás. Software Development Engineer.
