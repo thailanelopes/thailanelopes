@@ -14,23 +14,27 @@
  I'm a information systems student at the Federal University of Goiás. Software Development Engineer.
  
  **Currently, I work with the following technologies:**
--  Angular JS         -  Node
--  Angular 16+        -  HTML
--  JavaScript         -  CSS
--  SpringBoot         -  Git
--  SQL Developer      -  Java
-  
-              -  Mavem
+-  Node
+-  HTML
+-  CSS
+-  Git
+-  Java
+-  Mavem
+-  Angular JS         
+-  Angular 16+        
+-  JavaScript         
+-  SpringBoot         
+-  SQL Developer 
  
  **I have also worked with:**
+ - PHP 
+ - Dojo
  - VueJs
  - React
  - Python
- - Google Analytics
- - PHP
- - Dojo
- - Zend Framework
  - Mongo DB
+ - Zend Framework
+ - Google Analytics
    
  <!-- <div> 
     <a href="https://linktr.ee/thailanelopes" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="-blank"></a> 
