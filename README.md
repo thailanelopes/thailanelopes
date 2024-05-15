@@ -11,6 +11,7 @@
  A young woman in love with Science, Technology and Innovation!🧑‍💻❤️
 
  I'm a information systems student at the Federal University of Goiás. Software Development Engineer.
+ 
  Currently, I work with the following technologies:
 -  Angular JS
 -  Angular 16+
