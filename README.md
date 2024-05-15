@@ -9,6 +9,7 @@
 <p align="left">
   
  A young woman in love with Science, Technology and Innovation!🧑‍💻❤️
+ **📫 You can get more information about me at https://linktr.ee/thailanelopes**
 
  I'm a information systems student at the Federal University of Goiás. Software Development Engineer.
  
@@ -34,16 +35,13 @@
  - Dojo
  - Zend Framework
  - Mongo DB
-
-  **📫 You can get more information about me at https://linktr.ee/thailanelopes**
    
-  <div> 
-    <a href="https://linktr.ee/thailanelopes" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="-blank"></a>
- 
-</div>
+ <!-- <div> 
+    <a href="https://linktr.ee/thailanelopes" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="-blank"></a> 
+</div> 
 
 <br>
-<br>
+<br> -->
 
 <!-- ### Technologies:
  <div style="display: inline_block">
@@ -60,8 +58,7 @@
  <img align="center" alt="Clei-Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="Clei-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   </div> -->
- 
-<br><br>
+ <br>
   
   
 <!-- ### Frameworks: 
