@@ -13,7 +13,7 @@
 
  I'm a information systems student at the Federal University of Goiás. Software Development Engineer.
  
- Currently, I work with the following technologies:
+ **Currently, I work with the following technologies:**
 -  Angular JS
 -  Angular 16+
 -  JavaScript
@@ -26,7 +26,7 @@
 -  Mavem
 -  SQL Developer
  
- I have also worked with:
+ **I have also worked with:**
  - VueJs
  - React
  - Python
@@ -113,10 +113,10 @@
 <img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thailanelopes&theme=midnight-purple&hide=html&layout=compact' >-->
 
   
-  <br>
+ <!--  <br>
   <br>
   
-<!--   # See what I'm learning at Udemy
+  # See what I'm learning at Udemy
        
 <a href='https://www.udemy.com/user/thailane-lopes-dutra/'><img width=110px heigth=auto src='https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg'></a>
 
