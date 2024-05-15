@@ -14,17 +14,13 @@
  I'm a information systems student at the Federal University of Goiás. Software Development Engineer.
  
  **Currently, I work with the following technologies:**
--  Angular JS
--  Angular 16+
--  JavaScript
--  Node
--  HTML
--  CSS
--  Git
--  SpringBoot
--  Java
--  Mavem
--  SQL Developer
+-  Angular JS         -  Node
+-  Angular 16+        -  HTML
+-  JavaScript         -  CSS
+-  SpringBoot         -  Git
+-  SQL Developer      -  Java
+  
+              -  Mavem
  
  **I have also worked with:**
  - VueJs
