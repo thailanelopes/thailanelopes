@@ -7,18 +7,37 @@
 </div>
 
 <p align="left">
-
-#### :house: Goiânia, 🇧🇷 | :closed_book: SI Student at [UFG](https://ufg.br) with a focus on: Full Stack Development 🧑‍💻 
   
  A young woman in love with Science, Technology and Innovation!🧑‍💻❤️
+
+ I'm a information systems student at the Federal University of Goiás. Software Development Engineer.
+ Currently, I work with the following technologies:
+ ● Angular JS
+ ● Angular 16+
+ ● JavaScript
+ ● Node
+ ● HTML
+ ● CSS
+ ● Git
+ ● SpringBoot
+ ● Java
+ ● Mavem
+ ● SQL Developer
+ 
+ I have also worked with:
+ ● VueJs
+ ● React
+ ● Python
+ ● Google Analytics
+ ● PHP
+ ● Dojo
+ ● Zend Framework
+ ● Mongo DB
 
   **Reach me out👇**
   
   
   <div> 
-<!--   <a href="https://instagram.com/thailanelopess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!--   <a href = "mailto:thailane111122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-<!--   <a href="https://www.linkedin.com/in/thailane-lopes-dutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
     <a href="https://linktr.ee/thailanelopes" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="-blank"></a>
  
 </div>
