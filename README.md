@@ -10,7 +10,6 @@
   <a href="https://github.com/thailanelopes">
     <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=thailanelopes&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Thailane Lopes github stats" />
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailanelopes&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
-    <a href="https://github.com/thailanelopes"><img height="350px"  src="https://github.com/thailanelopes/thailanelopes/blob/main/devcard.svg" alt="Thailane Lopes Dev Card"/></a>
   </a>
 </div>
 
